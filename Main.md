@@ -1,10 +1,51 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Main</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#table-of-contents">Table of Contents</a></li>
+<li><a href="#design-doc">Design Doc</a></li>
+<li><a href="#dev-log">Dev Log</a></li>
+<li><a href="#style-guide">Style Guide</a></li>
+<li><a href="#workflow">Workflow</a></li>
+<li><a href="#github">Github</a></li>
+<li><a href="#testing">Testing</a>
+<ul>
+<li><a href="#postman">Postman</a></li>
+<li><a href="#front-end">Front End</a></li>
+</ul>
+</li>
+<li><a href="#technologies">Technologies</a>
+<ul>
+<li><a href="#node.js">Node.js</a></li>
+<li><a href="#express.js">Express.js</a></li>
+<li><a href="#mongodb-with-mongoose">MongoDB With Mongoose</a></li>
+<li><a href="#react--redux-with-material-ui">React + Redux with Material UI</a></li>
+</ul>
+</li>
+<li><a href="#services">Services</a>
+<ul>
+<li><a href="#aws-lightsail">AWS Lightsail</a></li>
+<li><a href="#mongodb-atlas">MongoDB Atlas</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="kt-web-platform-documentation">KT Web Platform Documentation</h1>
-<h1 id="table-of-contents">Table of Contents</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="table-of-contents">Table of Contents</h1>
 <ul>
 <li><a href="#design-doc">Design Doc</a></li>
 <li><a href="#dev-log">Dev Log</a></li>
@@ -130,3 +171,8 @@ Any component can access data from it, which means we no longer have to juggle c
 <h3 id="setting-up-1">Setting Up</h3>
 <h3 id="connecting-to-aws">Connecting to AWS</h3>
 
+    </div>
+  </div>
+</body>
+
+</html>
